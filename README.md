@@ -1,6 +1,6 @@
 # CATATAN ( NOTE )
 sc ini hanyalah hasil recode dari sc asli hisoka
-naze && papah hanya menghilangkat bug, memperbagus & menyeting banyak hal
+naze & papah & Nizar Rahman hanya menghilangkat bug, memperbagus & menyeting banyak hal
 agar tidak terjadi error
 
 #Sad-Bot
@@ -19,7 +19,8 @@ This Script is for everyone, not for Sale. Jika dijual neraka menunggumu brother
 <p align="center">
 	<img src="https://i.pinimg.com/736x/59/5b/87/595b87a04282978a2d5934e051c8376a.jpg" width="35%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
-<h1 align="center">NAZE DEV × PAPAH-CHAN</h1>
+<h1 align="center">NAZE DEV × PAPAH-CHAN × Nizar Rahman</h1>
+</h1>
 
 This is Script of WhatsApp multi device, working with [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
 
