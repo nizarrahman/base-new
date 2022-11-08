@@ -11,7 +11,7 @@ Yg Reupload Tanpa Kasih Cr
 Sc Akan Saya Encode
 
 Base : Hisoka
-Recode : NazeDev & Papah-Chan ( Nama Lu )
+Recode : Nizar & 𝙉𝘼𝙄-𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧 
 
 **/
 require('./config')
