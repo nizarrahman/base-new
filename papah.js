@@ -2,7 +2,7 @@
 
 Yg Mau Sv Nomerku?
 
-wa.me/6282287219167
+wa.me/6281386945391
 
 Minimal Kasih Cr kalo mau reupload😡
 
@@ -1016,11 +1016,11 @@ break
             }
             break
             case 'donasi': case 'sewabot': case 'sewa': case 'buypremium': case 'donate': {
-                papah.sendMessage(m.chat, { image: fs.readFileSync('./media/image/papah.jpg'), caption: `*${ucapanWaktu} Kak ${m.pushName}*\n\n *Jika ingin berdonasi silahkan scan gambar diatas*\n\n*Jika ingin sewa bot atau premium*\n*Silahkan Chat Owner*\n\n*Atau klik link dibawah ini*\n_https://saweria.co/papah_\n\n*Atau Transfer via*\n- *Gopay Dana Ovo Qris ShopeePay*\n Ke nomer berikut : 0895612153565\n\n_Terima kasih_` }, { quoted: m })
+                papah.sendMessage(m.chat, { image: fs.readFileSync('./media/image/papah.jpg'), caption: `*${ucapanWaktu} Kak ${m.pushName}*\n\n *Jika ingin berdonasi silahkan scan gambar diatas*\n\n*Jika ingin sewa bot atau premium*\n*Silahkan Chat Owner*\n\n*Atau klik link dibawah ini*\n__\n\n*Atau Transfer via*\n- *Gopay Dana Ovo Qris ShopeePay*\n Ke nomer berikut : 081386945391\n\n_Terima kasih_` }, { quoted: m })
             }
             break
             case 'sc': {
-                m.reply('https://wa.me/6282287219167')
+                m.reply('https://wa.me/6281386945391')
             }
             break		 
             case 'subsyt': {
@@ -1038,7 +1038,7 @@ break
   headerType: 4,
   contextInfo:{externalAdReply:{
   title: 'Sad-Bot',
-  body: 'Subscribe My YouTube', 
+  body: 'Follow My YouTube', 
   showAdAttribution: true,
   thumbnail: thumb,
   mediaType:2,
@@ -1127,7 +1127,7 @@ break
             case 'setowner': {
                if (!isCreator) throw mess.owner
                if (m.text.includes('@')) return m.reply(`*Invalid!*\n\n*Pake Nomer Woy*\n*Jangan Pakai Tag!*`)
-               if (!text) throw `Example : ${prefix + command} 6282287219167`
+               if (!text) throw `Example : ${prefix + command} 6281386945391`
               global.owner = text
               global.ownernomer = text
               m.reply(`Owner berhasil diubah menjadi\n\n⭔ Owner : ${global.owner}\n⭔ OwnerNumber : ${global.ownernomer}`)
@@ -3076,7 +3076,7 @@ break
             }
             break
 	    case 'nomerhoki': case 'nomorhoki': {
-                if (!Number(text)) throw `Example : ${prefix + command} 6285822347348`
+                if (!Number(text)) throw `Example : ${prefix + command} 6281386945391`,'6285801089092'
                 let anu = await primbon.nomer_hoki(Number(text))
                 if (anu.status == false) return m.reply(anu.message)
                 papah.sendText(m.chat, `⭔ *Nomor HP :* ${anu.message.nomer_hp}\n⭔ *Angka Shuzi :* ${anu.message.angka_shuzi}\n⭔ *Energi Positif :*\n- Kekayaan : ${anu.message.energi_positif.kekayaan}\n- Kesehatan : ${anu.message.energi_positif.kesehatan}\n- Cinta : ${anu.message.energi_positif.cinta}\n- Kestabilan : ${anu.message.energi_positif.kestabilan}\n- Persentase : ${anu.message.energi_positif.persentase}\n⭔ *Energi Negatif :*\n- Perselisihan : ${anu.message.energi_negatif.perselisihan}\n- Kehilangan : ${anu.message.energi_negatif.kehilangan}\n- Malapetaka : ${anu.message.energi_negatif.malapetaka}\n- Kehancuran : ${anu.message.energi_negatif.kehancuran}\n- Persentase : ${anu.message.energi_negatif.persentase}`, m)
@@ -4134,7 +4134,7 @@ let alfamart = `628111500959@s.whatsapp.net`
 	           title: ' ∫ » SUPPORT ME –––––––·│⭔',
 	           rows: [
 	            {title: "🎟 │⭔ Donasi", rowId: `donasi`, description: `╰ ► 💰 Donasi ♕︎`},
-                {title: "🔴 │⭔ Subscribe", rowId: `subsyt`, description: `╰ ► 📢 Thanks For Subscribe ♕︎`},
+                {title: "🔴 │⭔ Follow", rowId: `subsyt`, description: `╰ ► 📢 Thanks For Follow ♕︎`},
                 {title: "📚 │⭔ Github", rowId: `sc`, description: `╰ ► 🎷 Follow My Github ♕︎`}
 	]
   },
@@ -4581,7 +4581,7 @@ _⫹⫺ Bot Name : Sad-Bot_
 _⫹⫺ Library : Baileys-Md_
 _⫹⫺ Version : 4.0.4_
 _⫹⫺ Language : Javascript_
-_⫹⫺ Recoder : 𝙋𝙖𝙥𝙖𝙝-𝘾𝙝𝙖𝙣_
+_⫹⫺ Developer : 𝙉𝘼𝙄-𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧_
 _⫹⫺ Date Server :  ${moment.tz('Asia/Jakarta').format('DD/MM/YY')}_
 _⫹⫺ Time Sever : ${moment.tz('Asia/Jakarta').format('HH:mm:ss')}_                
 _⫹⫺ Bot Mode : Public Mode_
@@ -4971,18 +4971,11 @@ _⫹⫺ Fitur : 200_
 
 -- *C R E D I T S* --
 Tuhan Yang Maha Esa
-DikaArdnt As Developer
-NazeDev As Owner Base
-Papah As Recode
-KyuraSaja
-Nurutomo
-Contributors in GitHub
-RestAPI
-BochilGaming
-Mayumi Kun
-Iqbal
-Eren
-User Sad Bot`
+Nabi Muhammad Saw
+Ortu
+Nizar (Author)
+Adryan (Team)
+Irham (Team)`
                 let buttons = [{ buttonId: 'donasi', buttonText: { displayText: '🙏Donasi' }, type: 1 },{ buttonId: 'rules', buttonText: { displayText: '❗Rules' }, type: 1 }]
             papah.sendMessage(m.chat, { caption: `${anu}`, location: { jpegThumbnail: await reSize(faall, 300, 200)}, buttons: buttons, footer: nyoutube, mentions: ments})
             }
